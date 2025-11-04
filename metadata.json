@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Future: AI Image Stylizer",
+  "description": "An application that allows users to edit images using text prompts with Gemini. Upload an image, describe the desired style, and let the AI generate a unique, stylized post for your social media.",
+  "requestFramePermissions": []
+}
